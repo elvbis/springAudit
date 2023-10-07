@@ -1,3 +1,2 @@
 
-comandos :
-    docker build -t springapi:v0 .
+spring Auditable configure without spring security
