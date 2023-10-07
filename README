@@ -1,0 +1,3 @@
+
+comandos :
+    docker build -t springapi:v0 .
